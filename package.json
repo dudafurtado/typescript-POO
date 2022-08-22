@@ -1,0 +1,20 @@
+{
+  "name": "typescript-poo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudafurtado/typescript-POO.git"
+  },
+  "keywords": [],
+  "author": "Maria Eduarda Furtado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dudafurtado/typescript-POO/issues"
+  },
+  "homepage": "https://github.com/dudafurtado/typescript-POO#readme"
+}
