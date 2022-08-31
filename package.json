@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/dudafurtado/typescript-POO/issues"
   },
-  "homepage": "https://github.com/dudafurtado/typescript-POO#readme"
+  "homepage": "https://github.com/dudafurtado/typescript-POO#readme",
+  "dependencies": {
+    "@types/prompt-sync": "^4.1.1",
+    "prompt-sync": "^4.2.0"
+  }
 }
